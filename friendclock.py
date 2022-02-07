@@ -22,7 +22,7 @@ LIST = [
 	('buffrr',	'America/Denver'),
 	('Falci',	'Europe/Madrid'),
 	('nodech',	'Asia/Tbilisi'),
-	('tuxcanfly',	'Asia/Calcutta'),
+	('rithvik',	'Asia/Calcutta'),
 	('chikeichan',	'Asia/Hong_Kong'),
 ]
 
